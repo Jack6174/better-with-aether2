@@ -5,7 +5,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/bta-team-port/better-with-aether?color=cyan&cacheSeconds=1)](https://github.com/bta-team-port/better-with-aether/commits/7.3/)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bta-team-port/better-with-aether/total?color=cyan)](https://tooomm.github.io/github-release-stats/?username=bta-team-port&repository=better-with-aether)
 
-## Welcome to the Hostile Paradise: The Aether, now Better than ever.
+## Welcome to A FUCKING FORK FOR PERSONAL USE! I MAKE CHANGES FOR MY PERSONAL USE! THIS IS NOT A STABLE MOD!
 
 The legendary dimension has finally arrived to Better Than Adventure!
 
